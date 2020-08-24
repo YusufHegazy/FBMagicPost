@@ -6,4 +6,4 @@
 - fb-sdk
 
 ## Usage:
-just edit the variable at the top of the script
+just edit the variables at the top of the script
