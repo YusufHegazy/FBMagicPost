@@ -1,14 +1,10 @@
 import json
 import facebook
-import requests
-from random import randint
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-from pyvirtualdisplay import Display
-import sys
 import logging
 
 logging.basicConfig(
